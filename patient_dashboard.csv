@@ -1,0 +1,7 @@
+PatientID,Age,BloodPressure,Diagnosis
+001,65,145,Hypertension
+002,48,132,Diabetes
+003,72,155,Heart Disease
+004,30,120,None
+005,58,138,Hypertension
+006,76,160,Heart Disease
